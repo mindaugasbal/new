@@ -1,1 +1,1 @@
-# BIT-first-theme
+# New-theme
